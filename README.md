@@ -74,7 +74,7 @@
 
 | App | What it does | Stack |
 |-----|-------------|-------|
-| 💸 **[Foloos](https://www.zatoony.tech/apps/foloos)** | Money tracking & management, built with ₪ in mind | Flutter · Firebase |
+| 💸 **[Foloos](https://www.zatoony.tech/apps/foloos)** | Money tracking & management, built with housegold in mind | Flutter · Firebase |
 | 🎵 **[Doozan](https://www.zatoony.tech/apps/doozan)** | Oud-focused tuner & metronome for Arabic music | Flutter · Audio |
 | 🃏 **[Shaddy Counter](https://www.zatoony.tech/apps/shaddy-counter)** | Card game score tracker — clean, fast, no ads | Flutter · SQLite |
 
