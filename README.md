@@ -74,9 +74,9 @@
 
 | App | What it does | Stack |
 |-----|-------------|-------|
-| 💸 **[Foloos](https://github.com/majmaha/foloos)** | Money tracking & management, built with ₪ in mind | Flutter · Firebase |
-| 🎵 **[Doozan](https://github.com/majmaha/Doozan)** | Oud-focused tuner & metronome for Arabic music | Flutter · Audio |
-| 🃏 **Shaddy Counter** | Card game score tracker — clean, fast, no ads | Flutter · SQLite |
+| 💸 **[Foloos](https://www.zatoony.tech/apps/foloos)** | Money tracking & management, built with ₪ in mind | Flutter · Firebase |
+| 🎵 **[Doozan](https://www.zatoony.tech/apps/doozan)** | Oud-focused tuner & metronome for Arabic music | Flutter · Audio |
+| 🃏 **[Shaddy Counter](https://www.zatoony.tech/apps/shaddy-counter)** | Card game score tracker — clean, fast, no ads | Flutter · SQLite |
 
 ---
 
@@ -99,8 +99,8 @@ Oud player · self-hosting enthusiast · fitness goals in progress
 ### 🤝 Find me
 
 [![Website](https://img.shields.io/badge/zatoony.tech-222?style=for-the-badge&logo=safari&logoColor=white)](https://zatoony.tech)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/majdmahajena)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:majd@zatoony.tech)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/majdmahajenah/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:majd.mahajenah@gmail.com)
 
 ---
 
